@@ -7,4 +7,10 @@ Handling imbalanced datasets where fraud cases are a small fraction of total tra
 Ensuring high precision to minimize false positives (flagging a valid transaction as fraud).
 Ensuring high recall to detect as many fraud cases as possible.
 
+
+## Dataset
+The dataset is hosted on Google Drive. You can download it here:
+
+https://drive.google.com/file/d/1dou4VSU7KdZjOid2wBdq9zkF2FiMuRCX/view?usp=sharing
+
 Source:geeksforgeeks
